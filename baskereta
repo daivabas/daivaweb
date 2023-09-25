@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Situs Resmi PT Kereta Api Indonesia (Persero)</title>
+
+</head>
+<body>
+    <nav>
+        <div class="nav-content-wrapper">
+            <div class="pull-left">
+              <img alt="Logo KAI" src="kai121.jpg">
+            </div>
+            <div class="pull-right">
+              <nav class="main-menu">
+                <ul class="multi-floor-menu menu-right-base ul-node">
+                  <li><a href="https://www.kai.id/">BERANDA</a>
+                  
+                  
+                  </li><li><a href="#">LAYANAN</a>
+                    <ul class="multi-floor-menu menu-right-base ul-node">
+                      <li class="li-node">
+                      <a href="#">ANGKUTAN <b>PENUMPANG</b></a>
+                      <ul>
+                          <li><a href="https://www.kai.id/corporate/passenger_services/0">INFO PRODUK</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/passenger_services/1">PERSYARATAN &amp; KETENTUAN</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/passenger_services/2">CHANNEL PEMESANAN</a>
+                          </li>
+                        </ul>
+                       </li>
+                      <li class="li-node"><a href="#">ANGKUTAN <b>BARANG</b></a>
+                      <ul>
+                          <li><a href="https://www.kai.id/corporate/freight_services/0">INFO PRODUK</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/freight_services/1">PERSYARATAN &amp; KETENTUAN</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/freight_services/2">INFO KERJA SAMA</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li class="li-node"><a href="#">PENGUSAHAAN <b>ASET</b></a>
+                      <ul>
+                          <li><a href="https://www.kai.id/corporate/asset_services_product">INFO PRODUK</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/asset_services/0">PERSYARATAN &amp; KETENTUAN</a>
+                          </li>
+                          <li><a href="https://www.kai.id/corporate/asset_services/1">INFO KERJA SAMA</a>
+                          </li>
+                        </ul></li>
+                    </ul>
+                  </li>
+                  
+                  <li><a href="#">PREORDER</a>
+                      <ul class="multi-floor-menu">
+                          <li style="min-width:200px;"><a href="https://preorder.reska.co.id/" target="_blank">MEALS</a>                        </li>
+                      </ul>
+                  </li>
+                 <li><a href="https://booking.kai.id/auth/login">AKUN</a></li>
+              
+                </ul>
+              </nav>
+              
+            </div>
+          </div>
+    </nav>
+    <img alt="Main Banner" src="413a6db83052b7bff2d91b9938137fd1.jpg" width="500">
+    <div class="footer-widget-info" style="margin-bottom:0px;">
+        <h4 style="margin-bottom:10px">INFORMASI</h4>
+        <div class="__content font-heading fz-6-ss __2-col">
+          <div style="width:100%">
+                              <span><a href="https://www.kai.id/corporate/page/10">Tentang Kami</a></span>
+                              
+                              <span><a href="https://www.kai.id/corporate/page/12">Publikasi</a></span>
+                              
+          <span><a target="_blank" href="https://recruitment.kai.id/">Karir</a></span>
+          <span><a href="https://rapid.kai.id">Lelang</a></span>
+          <span><a target="_blank" href="https://ppid.kai.id">Keterbukaan Informasi Publik</a></span>
+          <span><a target="_blank" href="http://heritage.kai.id/">Heritage</a></span>
+          <span><a href="https://tjsl.kai.id">TJSL</a></span>
+          <span><a href="https://www.kai.id/corporate/page/181">Hubungan Investor</a></span>
+          <span><a href="https://www.kai.id/corporate/page/373">GCG</a></span>
+          </div>
+         
+        </div>
+      </div>
+      <div class="footer-widget-contact" style="margin-bottom:0px;">
+        <h4 style="margin-bottom:10px">KONTAK KAMI</h4>
+        <div class="__content font-heading fz-6-ss">
+          <div class="__address"><i class="icon icon-location"></i><span>Kantor Pusat: Jalan Perintis Kemerdekaan No. 1 Bandung 40117</span></div>
+          
+          <div class="__phone"><i class="icon icon-phone-1"></i><span>Office Phone: 022-4230031, 4230039, 4230054, 42141121</span></div>
+          
+          <div class="__email"><i class="icon icon-paper-plane"></i><span>Email Korespondensi Kantor Pusat: dokumen@kai.id</span></div>
+          <div class="__address"><i class="icon icon-location"></i><span>Link Alamat Kantor Cabang <a href="https://www.kai.id/corporate/contact/1">Klik di sini</a></span></div>
+          <div class="__phone"><i class="icon icon-phone-1"></i><span>Contact Center: 121 / (021) 121</span></div>
+          <div class="__email"><i class="icon icon-paper-plane"></i><span>Layanan Pelanggan: cs@kai.id</span></div>
+        </div>
+      </div>
+      <footer>
+        <p class="font-heading fz-6-s">© 2023 PT KERETA API INDONESIA (PERSERO), All Rights Reserved </p>
+      </footer>
+
+</body>
+</html>
